@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A Passionate Java Full Stack Developer from India.</h3>
+<h3 align="center">A  Java Full Stack Developer from India.</h3>
 
 <p align="center">
   <a href="mailto:rahulkusaiya456@gmail.com">📧 Email Me</a> |
