@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A  Java Full Stack Developer from India.</h3>
+<h3 align="center">A  Java Backend Developer from India.</h3>
 
 <p align="center">
   <a href="mailto:rahulkusaiya456@gmail.com">📧 Email Me</a> |
@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 Java Full Stack Developer (Java + Spring Boot + React)
+- 💻 Java Backend Developer (Java + Spring Boot)
 - 🌱 Currently improving Data Structures & System Design
 - 🎯 Focused on building scalable and responsive web applications
 - 📫 Reach me at: **rahulkusaiya456@gmail.com**
@@ -56,15 +56,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" title="MySQL"/>
 </p>
 
-<h3>Frontend</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
-</p>
 
 <h3>Tools</h3>
 <p>
@@ -88,10 +79,9 @@
 
 ### 🤝 Let's Connect
 I am open to:
-- 💼 Full Stack Developer Roles  
-- 🌱 Java Backend Roles  
-- ⚛️ React Developer Roles  
-- 🎓 Internship Opportunities  
+- 💼 Java Backend Developer Roles  
+- 🎓 Internship Opportunities
+- 🎓 Fulltime Opportunities  
 
 📧 **Email:** rahulkusaiya456@gmail.com  
 📱 **Phone:** 6204923300  
